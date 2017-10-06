@@ -1,0 +1,32 @@
+{
+  "name": "stdlib",
+  "version": "1.0.0",
+  "description": "BAM Lab Standard Library",
+  "main": "index.js",
+  "bin": {
+    "stdlib": "index.js"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BAMLABLLC/stdlib.git"
+  },
+  "keywords": [
+    "standard",
+    "std",
+    "library",
+    "lib"
+  ],
+  "author": "BAM Lab LLC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BAMLABLLC/stdlib/issues"
+  },
+  "homepage": "https://github.com/BAMLABLLC/stdlib#readme",
+  "dependencies": {
+    "ramda": "^0.24.1",
+    "rxjs": "^5.4.3"
+  }
+}
