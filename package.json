@@ -27,6 +27,7 @@
   "homepage": "https://github.com/BAMLABLLC/stdlib#readme",
   "dependencies": {
     "ramda": "^0.24.1",
-    "rxjs": "^5.4.3"
+    "rxjs": "^5.4.3",
+    "xmldom": "^0.1.27"
   }
 }
