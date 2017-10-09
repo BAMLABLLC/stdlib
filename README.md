@@ -2,7 +2,7 @@
 
 #### All asynchronous functions return an `<Observable>` that emits the type defined below
 
-* `parseXML :: <String> xmlString -> <Document>`
-* `readDir :: <String> dirname -> <Array>`
-* `readFile :: <String> encoding, <String> filename -> <Buffer>`
-* `writeFile :: <String> encoding, <String> filename, <Buffer> data -> <Buffer>`
+* `parseXML :: <String> xml -> <Document>`
+* `readDir :: <String> directory -> <Array>`
+* `readFile :: <String> encoding, <String> file -> <Buffer>`
+* `writeFile :: <String> encoding, <String> file, <Buffer> data -> <Buffer>`
