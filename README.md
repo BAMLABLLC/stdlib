@@ -1,6 +1,6 @@
 ## BAM Lab Standard Library
 
-#### Most functions return an `<Observable>` that emits the type defined below
+#### All asynchronous functions return an `<Observable>` that emits the type defined below
 
 * `parseXML :: <String> xmlString -> <Document>`
 * `readDir :: <String> dirname -> <Array>`
